@@ -44,7 +44,7 @@ class GeminiService {
   // your own authenticated endpoint instead. Until that's done, get AI
   // features working again by generating a fresh key at
   // https://aistudio.google.com/apikey and pasting it below.
-  static const String apiKey = 'AIzaSyDoC8N6L66jdHvXA6KlIO4ulsSSS5Oyves';
+  static const String apiKey = '';
   static const String baseUrl = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent';
 
   /// Backwards-compatible single-image analysis.
